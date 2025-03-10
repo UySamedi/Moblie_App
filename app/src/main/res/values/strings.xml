@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">my_app</string>
+    <string name="faculty_of_engineering">Faculty of engineering</string>
+    <string name="fe">មហាវិទ្យាល័យ វិស្វកម្ម</string>
+    <string name="email">អ៊ីម៉ែល</string>
+    <string name="password">លេខសម្ងាត់</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_account">Do not have account?</string>
+    <string name="register">Register</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="name">ឈ្មោះ</string>
+    <string name="confirm_password">បញ្ចាក់លេខសម្ងាត់</string>
+    <string name="you_have_account">You have account?</string>
+</resources>

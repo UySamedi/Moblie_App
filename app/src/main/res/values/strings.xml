@@ -12,4 +12,7 @@
     <string name="name">ឈ្មោះ</string>
     <string name="confirm_password">បញ្ចាក់លេខសម្ងាត់</string>
     <string name="you_have_account">You have account?</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_account">Already have account?</string>
 </resources>

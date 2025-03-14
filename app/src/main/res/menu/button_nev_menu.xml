@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Home Item -->
+    <item
+        android:id="@+id/bottom_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:icon="@drawable/home_svgrepo_com"
+        android:iconTint="@color/color_app"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_search"
+        android:icon="@drawable/map_location_pin_svgrepo_com"
+        android:iconTint="@color/color_app"
+        android:title="Map" />
+    <item
+        android:id="@+id/bottom_settings"
+        android:icon="@drawable/profile_circle_svgrepo_com"
+        android:iconTint="@color/color_app"
+        android:title="Profile" />
+</menu>

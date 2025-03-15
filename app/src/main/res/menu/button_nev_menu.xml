@@ -7,15 +7,15 @@
         android:layout_height="match_parent"
         android:icon="@drawable/home_svgrepo_com"
         android:iconTint="@color/color_app"
-        android:title="Home" />
+        android:title="" />
     <item
         android:id="@+id/bottom_search"
         android:icon="@drawable/map_location_pin_svgrepo_com"
         android:iconTint="@color/color_app"
-        android:title="Map" />
+        android:title="" />
     <item
         android:id="@+id/bottom_settings"
         android:icon="@drawable/profile_circle_svgrepo_com"
         android:iconTint="@color/color_app"
-        android:title="Profile" />
+        android:title="" />
 </menu>
